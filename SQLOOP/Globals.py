@@ -12,7 +12,7 @@ from typing import (
 from types import FunctionType, MethodType
 
 from PseudoPathy import Path, DirectoryPath, FilePath, PathGroup, PathLibrary, PathList
-from PseudoPathy.PathShortHands import *
+from PseudoPathy.ShortHands import *
 
 from SQLOOP._core.Exceptions import *
 from This import this
